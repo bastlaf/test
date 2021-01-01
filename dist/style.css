@@ -96,7 +96,7 @@ span {
   padding: 2rem 2rem;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 440px) {
   .navPcLink {
     display: none;
   }
